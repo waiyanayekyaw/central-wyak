@@ -35,16 +35,10 @@
 /* info3 */
 
 /* info4 */
-.info4 img{
-    display: inline;
-}
-.info4-letter{
-    display: inline;
-    float: left;
-}
+
 /* footer */
 .footer{
     color: white;
     background-color: purple;
-    padding: 80px;
+    padding: 10px;
 }
